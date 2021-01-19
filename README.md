@@ -9,7 +9,7 @@ Basic security for a secure workstation.
 
 **setup.sh** - A script to install applications, remove services and get a new system up and running. (workstation)
 
-**firewall.sh** A script to install firewalld and lock it down. (firewall)
+**firewall.sh** A script to lock down firewalld. (firewall)
 
 **hostsfile-paranoid.sh** - A script that downloads a security conscious hosts file to block malware/phising and bad hosts (hostsfile)
 
