@@ -3,6 +3,15 @@ Configuration scripts to configure common applications and lock down your Fedora
 
 ---
 
+# Step Zero
+
+## Create a threat model
+
+What are you trying to protect and from whom? Is your adversary a <a href="https://theintercept.com/document/2015/03/10/strawhorse-attacking-macos-ios-software-development-kit/">three letter agency</a> (if so, you may want to consider using <a href="https://openbsd.org"OpenBSD</a> instead); a nosy eavesdropper on the network; or a determined <a href="https://en.wikipedia.org/wiki/Advanced_persistent_threat">apt</a> orchestrating a campaign against you?
+
+<a href="https://www.usenix.org/system/files/1401_08-12_mickens.pdf">Recognize threats</a> and how to reduce attack surface against them.
+
+
 # Step One
 
 Basic security for a secure workstation.
@@ -32,5 +41,9 @@ The ClearLinux nginx image lets you spin up a quick web server.
 
 ---
 
-Please feel to suggest more! Keep in mind this configuration is tailored towards activists, lawyers, paralegals, etc. 
+Please feel to suggest more! Keep in mind this configuration is tailored towards activists, lawyers, paralegals, etc.
+
+# Special Thanks to <a href="https://github.com/drduh/macOS-Security-and-Privacy-Guide">DrDuh</a>
+
+
 
