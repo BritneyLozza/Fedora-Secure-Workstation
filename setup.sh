@@ -3,7 +3,7 @@
 # Fedora Secure Workstation 1.0
 # By Britney Lozza
 # Just a bunch of scripts for automating my install process.
-# I don't claim this to do anything.
+# I don't claim does anything useful.
 
 # Disable SSH (less surface attack area)
 # You might need SSH if you want remote login.
