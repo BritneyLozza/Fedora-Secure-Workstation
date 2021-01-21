@@ -16,7 +16,7 @@ sudo dnf install https://mirrors.rpmfusion.org/free/fedora/rpmfusion-free-releas
 sudo dnf install @development-tools
 
 # Install Applications
-sudo dnf install gedit vlc mpv irssi screen pidgin hexchat weechat keepassxc transmission rkhunter
+sudo dnf install gedit vlc mpv irssi screen pidgin hexchat weechat keepassxc transmission rkhunter discord
 
 # Add custom applications
 # sudo dnf install ansible docker
